@@ -1206,94 +1206,74 @@
       "hash": "sha256-broJAu/Yma7A2NGaw8vFMSPNQROf4OHSnMXIdKeRud4="
     },
     {
-      "mvn-path": "org/graalvm/compiler/compiler/24.0.1/compiler-24.0.1.jar",
+      "mvn-path": "org/graalvm/compiler/compiler/22.0.0/compiler-22.0.0.jar",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-zKxkruaHGtXF2sKbOGiSKkWnOzAYrh4339GJi6gTrOQ="
+      "hash": "sha256-eK1sEUG2dVFqKQxckLT/qkf64c0ZDui+0CuWKE1H0No="
     },
     {
-      "mvn-path": "org/graalvm/compiler/compiler/24.0.1/compiler-24.0.1.pom",
+      "mvn-path": "org/graalvm/compiler/compiler/22.0.0/compiler-22.0.0.pom",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-sK/4BNDSNTDerkqWtYYD+6WI7In/IekQSXZ+1TwCugc="
+      "hash": "sha256-eoYgcTCzhdRfJ+jQ6Tm4LhMitdmMJo+d/Z575Vt2Xpo="
     },
     {
-      "mvn-path": "org/graalvm/nativeimage/native-image-base/24.0.1/native-image-base-24.0.1.jar",
+      "mvn-path": "org/graalvm/nativeimage/native-image-base/22.0.0/native-image-base-22.0.0.jar",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-QB7ppblrH/sSYlWQIeyqt7mFTjzppiEOXjtgshL8big="
+      "hash": "sha256-GpoLi57NPOCf6oVx/i4ca12t7ta3YqcGuSIM5hE40yg="
     },
     {
-      "mvn-path": "org/graalvm/nativeimage/native-image-base/24.0.1/native-image-base-24.0.1.pom",
+      "mvn-path": "org/graalvm/nativeimage/native-image-base/22.0.0/native-image-base-22.0.0.pom",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-O/GNJkhhUQLuB7HHzu8WiAsfr4rLaYTLesyejcv9EZ0="
+      "hash": "sha256-6BYjG+0yX7SIpClJpY7tLG6ar8OYY6BUoyGWQeoT+j4="
     },
     {
-      "mvn-path": "org/graalvm/nativeimage/objectfile/24.0.1/objectfile-24.0.1.jar",
+      "mvn-path": "org/graalvm/nativeimage/objectfile/22.0.0/objectfile-22.0.0.jar",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-+1gZT5v1d+FkIU9yoyoMDYXEAJkJtEgviFFlBI3OrEY="
+      "hash": "sha256-Rw04BVAxfj0yTiRu39Pclrw89xMSPh9EMRNyvA4HhvY="
     },
     {
-      "mvn-path": "org/graalvm/nativeimage/objectfile/24.0.1/objectfile-24.0.1.pom",
+      "mvn-path": "org/graalvm/nativeimage/objectfile/22.0.0/objectfile-22.0.0.pom",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-4DiUKPcig84ueniWQOesITNGFkvCbMLcOdGlERRy/EA="
+      "hash": "sha256-rdiGQijWXfsMlBnOK9CIh+w24ToOxSrpjuqqK/AJyfY="
     },
     {
-      "mvn-path": "org/graalvm/nativeimage/pointsto/24.0.1/pointsto-24.0.1.jar",
+      "mvn-path": "org/graalvm/nativeimage/pointsto/22.0.0/pointsto-22.0.0.jar",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-iFq+ze+Nq3v42XZ2CSQ5cCJ0IQMmSf5/gBWXZyKD4Cg="
+      "hash": "sha256-Ms2UeOdO/CkrGfN5JvDRHUVthVDclbRfjHuN2sd426E="
     },
     {
-      "mvn-path": "org/graalvm/nativeimage/pointsto/24.0.1/pointsto-24.0.1.pom",
+      "mvn-path": "org/graalvm/nativeimage/pointsto/22.0.0/pointsto-22.0.0.pom",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-rR1Wdjd0lqvrzYBCFKWSPV9oAlwPjt+ylwtvXueA9S4="
+      "hash": "sha256-AAqq4u8v/+jTg7I9aZEo9ff+rxyh/gyPLC5CuTSBrXM="
     },
     {
-      "mvn-path": "org/graalvm/nativeimage/svm/24.0.1/svm-24.0.1.jar",
+      "mvn-path": "org/graalvm/nativeimage/svm/22.0.0/svm-22.0.0.jar",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-ZK2BH6S4NzaNAzZGGSpCeZqHCCENEI1cEpBcoGfxPOs="
+      "hash": "sha256-1cs9uG1PeYMvYEQRsfRR4RWEdM34I+LI6DcUbHA3dy4="
     },
     {
-      "mvn-path": "org/graalvm/nativeimage/svm/24.0.1/svm-24.0.1.pom",
+      "mvn-path": "org/graalvm/nativeimage/svm/22.0.0/svm-22.0.0.pom",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-afzyZdxdwceoK3TrYI1l2I8RyrMvMmH6m+WiatRysqg="
+      "hash": "sha256-8bED6X4vRZCZX5QgdAOwDVbOPGlq5gOUVZsxNd6GC7k="
     },
     {
-      "mvn-path": "org/graalvm/sdk/collections/24.0.1/collections-24.0.1.jar",
+      "mvn-path": "org/graalvm/sdk/graal-sdk/22.0.0/graal-sdk-22.0.0.jar",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-83uk/Ahm/ZY3SBkthgJfFByeyYj6mS1oUlHOvW6ldXw="
+      "hash": "sha256-qmOn/3dEUKpL9Vcg8w+OXGG5JWpcTgZsPxWh/z0uA/k="
     },
     {
-      "mvn-path": "org/graalvm/sdk/collections/24.0.1/collections-24.0.1.pom",
+      "mvn-path": "org/graalvm/sdk/graal-sdk/22.0.0/graal-sdk-22.0.0.pom",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-r9UpLRXc7FOwWoUV+GPkOZ70nN7tJM78eleva3tP9u4="
+      "hash": "sha256-C3x+8l+7wDTzQY+xnq1Iw0vbTEBOJvNF7HnLqJgRxXk="
     },
     {
-      "mvn-path": "org/graalvm/sdk/nativeimage/24.0.1/nativeimage-24.0.1.jar",
+      "mvn-path": "org/graalvm/truffle/truffle-api/22.0.0/truffle-api-22.0.0.jar",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-6L+shBX8XGGoEHtdd/54bJAchq2yycyJL5FPSx7dYYk="
+      "hash": "sha256-dxbidTVh39mYQLNSZM8xmn0GVN/5LIuDeFnCcs7Mhjk="
     },
     {
-      "mvn-path": "org/graalvm/sdk/nativeimage/24.0.1/nativeimage-24.0.1.pom",
+      "mvn-path": "org/graalvm/truffle/truffle-api/22.0.0/truffle-api-22.0.0.pom",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-Bf49uCJIOwg9+7U7DGJ6UwgY72XawM/bgiaZnUdmrDU="
-    },
-    {
-      "mvn-path": "org/graalvm/sdk/word/24.0.1/word-24.0.1.jar",
-      "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-enWXX4E9+3pFgJ3XCLpuBpd/k9ZFiMKX3t9A103dUAw="
-    },
-    {
-      "mvn-path": "org/graalvm/sdk/word/24.0.1/word-24.0.1.pom",
-      "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-0Ctyxezz2OpcJshc1TeeijUk/eTVSImKBc2XVM+hhPk="
-    },
-    {
-      "mvn-path": "org/graalvm/truffle/truffle-compiler/24.0.1/truffle-compiler-24.0.1.jar",
-      "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-zQQ9ShMLfTupY71Yo2MQb7NeCdgploNPrxfZj4HbrfU="
-    },
-    {
-      "mvn-path": "org/graalvm/truffle/truffle-compiler/24.0.1/truffle-compiler-24.0.1.pom",
-      "mvn-repo": "https://repo.maven.apache.org/maven2/",
-      "hash": "sha256-Xz1br4V/QMrTn53gyjLJZ44J9liawbU2YT0bw2gHhUM="
+      "hash": "sha256-lgu/YuBU+OXoIRC2PAneCmAjT6f3ZM25QCT1EkztgRo="
     },
     {
       "mvn-path": "org/infinispan/infinispan-bom/11.0.15.Final/infinispan-bom-11.0.15.Final.pom",
