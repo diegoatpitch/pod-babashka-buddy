@@ -8,7 +8,7 @@
 
  :aliases {:native {:jvm-opts   ["-Dclojure.compiler.direct-linking=true"]
                     :extra-deps {org.clojure/clojure                       {:mvn/version "1.11.1"}
-                                 org.graalvm.nativeimage/svm {:mvn/version "22.0.0"}
+                                 org.graalvm.nativeimage/graal-hotspot-library  {:mvn/version "22.0.0"}
                                  com.github.clj-easy/graal-config-cheshire {:git/url   "https://github.com/clj-easy/graal-config"
                                                                             :git/sha   "0dc2862e1b1c9871eef4c306ef77da3610a2bd93"
                                                                             :deps/root "config/cheshire/cheshire"}

@@ -1216,6 +1216,16 @@
       "hash": "sha256-eoYgcTCzhdRfJ+jQ6Tm4LhMitdmMJo+d/Z575Vt2Xpo="
     },
     {
+      "mvn-path": "org/graalvm/nativeimage/graal-hotspot-library/22.0.0/graal-hotspot-library-22.0.0.jar",
+      "mvn-repo": "https://repo.maven.apache.org/maven2/",
+      "hash": "sha256-byDcmtfgMO1U2g1BgUMU1nl7F9LzKnPsBCGj+UWgc6k="
+    },
+    {
+      "mvn-path": "org/graalvm/nativeimage/graal-hotspot-library/22.0.0/graal-hotspot-library-22.0.0.pom",
+      "mvn-repo": "https://repo.maven.apache.org/maven2/",
+      "hash": "sha256-qg4rGknVjfsX7Y/0N3C8TGsK8G1voif+jnrJRiPOnYo="
+    },
+    {
       "mvn-path": "org/graalvm/nativeimage/native-image-base/22.0.0/native-image-base-22.0.0.jar",
       "mvn-repo": "https://repo.maven.apache.org/maven2/",
       "hash": "sha256-GpoLi57NPOCf6oVx/i4ca12t7ta3YqcGuSIM5hE40yg="
